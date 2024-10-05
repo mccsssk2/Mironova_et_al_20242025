@@ -4,6 +4,7 @@ Use.
 1) Install python3 and all essential dependencies for this software.
 2) To run the test, simply do:
 	make mle
+3) The above test needs data, which you can obtain from the first author.
 3) In case of questions, email the author at:
 	Dr. Sanjay R. Kharche. skharche@uwo.ca
 
